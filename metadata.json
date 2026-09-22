@@ -1,0 +1,6 @@
+{
+  "name": "Jewel Crush Classic",
+  "description": "A classic jewel match-3 puzzle game with sparkling faceted gems, cascade combos, special lightning & rainbow bomb jewels, level objectives, Web Audio sound & BGM loop, and integrated AdMob test ads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
